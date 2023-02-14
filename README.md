@@ -7,6 +7,6 @@ Effective user-friendly dashboard Farmers can also log in and signup to software
 I have deployed this site using Render..check out from here
 https://krishak-vriddhi.onrender.com
 
-#video of Krishak Vriddhi
-
+#videolink of Krishak Vriddhi
+https://drive.google.com/file/d/1Zz0Qj_TxvplhARD_IFDzTfzWfbNptkns/view?usp=sharing
 
