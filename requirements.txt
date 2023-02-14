@@ -4,3 +4,4 @@ mysqlclient==2.1.1
 numpy==1.21.6
 gunicorn==20.1.0
 scikit-learn
+lightgbm
